@@ -16,7 +16,7 @@ The data is fetched using API and now the **offline mode** is available. So, you
 
 ## 📁 Download Now
 
-Get it from <a href="">Play Store</a>
+Get it from <a href="">Download and Install</a>
 
 ## 🎥 Promo Video
 
@@ -71,12 +71,12 @@ API Used:
 ## 🧑 Author
 
 #### PARVEZ KHAN
-[![LinkedIn Link](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Parvez Khan-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/parvezkhan-india/)
 
 You can also follow my GitHub Profile to stay updated about my latest projects:
 
-[![GitHub Follow](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/parvezkhan-india)
+[![GitHub Follow](https://img.shields.io/badge/Connect-Parvez Khan-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/parvezkhan-india)
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
