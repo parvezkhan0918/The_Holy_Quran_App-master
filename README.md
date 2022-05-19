@@ -8,19 +8,19 @@ The data is fetched using API and now the **offline mode** is available. So, you
 <div align="center">
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
-[![GitHub Forks](https://img.shields.io/github/forks/saadhaxxan/Car_Game_Python_Pygame.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/m-hamzashakeel/The_Holy_Quran_App/fork)
-[![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/Car_Game_Python_Pygame.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/m-hamzashakeel/The_Holy_Quran_App/issues)
+[![GitHub Forks](https://img.shields.io/github/forks/saadhaxxan/Car_Game_Python_Pygame.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/parvezkhan-india/The_Holy_Quran_App/fork)
+[![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/Car_Game_Python_Pygame.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/parvezkhan-india/The_Holy_Quran_App/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
 </div>
 
 ## 📁 Download Now
 
-Get it from <a href="https://play.google.com/store/apps/details?id=com.hmz.al_quran">Play Store</a>
+Get it from <a href="">Play Store</a>
 
 ## 🎥 Promo Video
 
-Watch the promo video <a href="https://www.youtube.com/watch?v=ghD5H9TF9sU&ab_channel=HappyFluttering">here.</a>
+Watch the promo video <a href="">here.</a>
 
 ## 💻 Installation steps
 
@@ -30,7 +30,7 @@ Watch the promo video <a href="https://www.youtube.com/watch?v=ghD5H9TF9sU&ab_ch
 Open CMD where you want to clone the project & run the following commands
 
 ```
-git clone https://github.com/mhmzdev/The_Holy_Quran_App.git
+git clone https://github.com/parvezkhan-india/The_Holy_Quran_App.git
 cd The_Holy_Quran_App
 flutter packages get
 flutter run
@@ -51,7 +51,7 @@ flutter run
 
 ## 🔗 API Information
 
-API Used: https://alquran.cloud/api
+API Used: 
 
 ## 🎯 Features Updated
 
@@ -70,14 +70,14 @@ API Used: https://alquran.cloud/api
 
 ## 🧑 Author
 
-#### Muhammad Hamza
+#### PARVEZ KHAN
 [![LinkedIn Link](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
-)](https://www.linkedin.com/in/mhmzdev)
+)](https://www.linkedin.com/in/parvezkhan-india/)
 
 You can also follow my GitHub Profile to stay updated about my latest projects:
 
-[![GitHub Follow](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/m-hamzashakeel)
+[![GitHub Follow](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/parvezkhan-india)
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
-Copyright (c) 2020 MUHAMMAD HAMZA
+Copyright (c) 2022 PARVEZ KHAN
