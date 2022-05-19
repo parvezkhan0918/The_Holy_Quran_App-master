@@ -71,8 +71,7 @@ API Used:
 ## 🧑 Author
 
 #### PARVEZ KHAN
-[![LinkedIn Link](https://img.shields.io/badge/Connect-Parvez Khan-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
-)](https://www.linkedin.com/in/parvezkhan-india/)
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Parvez Khan-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/parvezkhan-india/)
 
 You can also follow my GitHub Profile to stay updated about my latest projects:
 
